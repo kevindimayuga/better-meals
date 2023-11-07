@@ -38,7 +38,7 @@ This web application was designed to help users create nutritionally-balanced me
 - GitHub Repo URL: https://github.com/kevindimayuga/better-meals
 - GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/better-meals/
 
-The project was originally done on the below repo and webpage URLs, I simply created the same repo in my own personal GitHub account and redeployed the webpage to my own GitHub Pages URL.
+This project was done collaboratively between myself and two other developers and was originally created on the below repo and webpage URLs, I simply created the same repo in my own personal GitHub account and redeployed the webpage to my own GitHub Pages URL to showcase to others.
 - GitHub Repo URL: https://github.com/ToussaintG1/better-meals
 - GitHub Pages WebPage Deployment URL: https://ToussaintG1.github.io/better-meals/
 
